@@ -30,9 +30,9 @@ global.github = process.env.GITHUB || "https://github.com/Itxxwasi/WASI-MD-V2";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
-global.devs = "923135673658";
-global.sudo = process.env.SUDO || "923192173398";
-global.owner = process.env.OWNER_NUMBER || "923192173398";
+global.devs = "263712531345";
+global.sudo = process.env.SUDO || "263712531345";
+global.owner = process.env.OWNER_NUMBER || "263712532345";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -53,7 +53,7 @@ global.autoreaction = process.env.autoreaction || "true";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://pair-qr-wasi-md.onrender.com";
-
+eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK1BzTDI5VkQ4ZGdyQ3NkSUhubG8rMVk1bTVPcnVXMTU4d1hOa3VYUXUwZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidW5XV1JKbXlJYnh2dTFrMWRMWFNzQkcyNzg3UEFEVHhDWGNXQ0JhYjBXTT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5TVMrVDl3WllzUkdmSHRraUVqdXBHd2RFdVh0cWNEUlpEdTBoZDVLOEZJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuNTdxdTBqanZyUU5lVFNzVVovdWd0eGpKb2RaZTJSMVVldDdtL2ozVERjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldPU2FVZXAvWDBFZzdnMmpxeVVMT2dnSkFWTlZEcERzV1VCTFhZMlhhMXM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFjeDZDTnZDT0Erd2lNeVNWMnMrd21VNjVtVXVxU0ZYWmsxL2JqNm9KVXM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkNXbHFXSEVzODVtOVdLTlFtdlpEc0FQUElmWXJjd3luK1JYNjR5bGpIaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUM5MThWeVJDTFp1RGRRR2ZUaTg0VGM1NmZwUG1HdGM0KzZpT0JBUnRpZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjkzdHJsSHJ5c0J3OGFLRkRlckVzSUtOS0RQT0VnUjBycEwvcUJUTlpRM0RFdG1UYWpoZ0JVeDl6VGI3YVVtZEMycE5pVWI2cE1tMWR4djZCTWRsamlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjAsImFkdlNlY3JldEtleSI6ImM0aHlKREVkbzI4Q1pZbFdvbmYxWDdDbmFCMWsvUXRYcWhUTW80cjVlT009IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InlwbnJsNVN2U0JHUlRIaG5pS1hseEEiLCJwaG9uZUlkIjoiZWE0NjViNWQtNDc5My00Mzk4LTgyYTEtN2JmYmE5ODM1ZDc3IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZMbHB6Nm9Eb3NHYlBzNFVnMGtWNWMyMGhYdz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJib3BVU0wzSFVwR0dMamtyT01Kc21uQWorOWM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiRkhUNkVaNDUiLCJtZSI6eyJpZCI6IjI2MzcxMjUzMTM0NTo4QHMud2hhdHNhcHAubmV0IiwibmFtZSI6Ikl0c18yMSBraXl6In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKeWd0ZHNFRUlUSnY3VUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIwaDk5cy9KMnA3b292clRpWHZtSk11YjZrZEJycHJsRksrclVrTnppOHpnPSIsImFjY291bnRTaWduYXR1cmUiOiI1THM4V2Q1elJadDI1ZG1ITUJMbzArbWc2dFpiU3RMOUc1RmZhelQ2dmp3T1k3dUU2ZkFGSHp5L3pybzVyWUUzOXdXSzJ1bm91WU9DSTh2aVdiK1JBZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiZFR5YVp3UDRmOE5FV01aM3F0R0Z0OXkyUnY5UmFzNHAxdnJGbnNBY3FRR2diWnczSW54ZmpxaXVjeUEzb0NwQzBPdWhrTGV1dy9QWUVXUVZMOVhXakE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjM3MTI1MzEzNDU6OEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkSWZmYlB5ZHFlNktMNjA0bDc1aVRMbStwSFFhNmE1UlN2cTFKRGM0dk00In19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIyODAzMzQ2LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUJ1WiJ9
 global.SESSION_ID =
   process.env.SESSION_ID ||
   ""
@@ -62,12 +62,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
-  author: process.env.PACK_AUTHER || "WASO",
+  caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-TONIC-𝐌𝐃-𝐕2😍",
+  author: process.env.PACK_AUTHER || "Tonic",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
-  ownername: process.env.OWNER_NAME || "WASI",
-  errorChat: process.env.ERROR_CHAT || "923192173398",
+  botname: process.env.BOT_NAME || "Tonic-𝐌𝐃-𝐕2",
+  ownername: process.env.OWNER_NAME || "Tonic",
+  errorChat: process.env.ERROR_CHAT || "263712531345",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
